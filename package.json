@@ -1,0 +1,27 @@
+{
+  "name": "damerau-levenshtein-cli",
+  "version": "1.0.0",
+  "description": "Compute Damerau-Levenshtein distance between two strings from the command line. Zero dependencies.",
+  "main": "index.js",
+  "bin": {
+    "damerau-levenshtein": "index.js"
+  },
+  "keywords": [
+    "damerau",
+    "levenshtein",
+    "edit-distance",
+    "string",
+    "similarity",
+    "cli",
+    "distance"
+  ],
+  "author": "kszongic",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kszongic/damerau-levenshtein-cli"
+  },
+  "files": [
+    "index.js"
+  ]
+}
