@@ -1,5 +1,5 @@
 {
-  "name": "damerau-levenshtein-cli",
+  "name": "@kszongic/damerau-levenshtein-cli",
   "version": "1.0.0",
   "description": "Compute Damerau-Levenshtein distance between two strings from the command line. Zero dependencies.",
   "main": "index.js",
